@@ -1,3 +1,3 @@
 That Prject using HTML and Advanced CSS 
 
-[Link Here](https://github.com/PriyanshuCoder007/Travel-site-.git)
+[Link Here](https://priyanshucoder007.github.io/Travel-site-/)
